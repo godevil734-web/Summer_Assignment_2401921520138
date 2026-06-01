@@ -4,7 +4,7 @@ class Teacher
 {   private:
         double salary;
     public :
-     //non parmatise constructor
+     //non parmatise type wala constructor
        Teacher()
        {
         cout<<"HI, I am constructor" << endl ;
